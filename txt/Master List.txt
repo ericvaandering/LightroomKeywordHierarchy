@@ -1,5 +1,3 @@
-		Name (en-GB)
-			{IPTCNewsCode-QCode (flat)}
 arts, culture and entertainment
 	{IPTCsubj:01000000}
 	archaeology
