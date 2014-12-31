@@ -1,0 +1,2810 @@
+		Name (en-GB)
+			{IPTCNewsCode-QCode (flat)}
+arts, culture and entertainment
+	{IPTCsubj:01000000}
+	archaeology
+		{IPTCsubj:01001000}
+	architecture
+		{IPTCsubj:01002000}
+	bullfighting
+		{IPTCsubj:01003000}
+	festive event (including carnival)
+		{IPTCsubj:01004000}
+	cinema
+		{IPTCsubj:01005000}
+		film festival
+			{IPTCsubj:01005001}
+	dance
+		{IPTCsubj:01006000}
+	fashion
+		{IPTCsubj:01007000}
+		jewelry
+			{IPTCsubj:01007001}
+	language
+		{IPTCsubj:01008000}
+	library and museum
+		{IPTCsubj:01009000}
+	literature
+		{IPTCsubj:01010000}
+		fiction
+			{IPTCsubj:01010001}
+		poetry
+			{IPTCsubj:01010002}
+	music
+		{IPTCsubj:01011000}
+		classical music
+			{IPTCsubj:01011001}
+		folk music
+			{IPTCsubj:01011002}
+		jazz music
+			{IPTCsubj:01011003}
+		popular music
+			{IPTCsubj:01011004}
+		country music
+			{IPTCsubj:01011005}
+		rock and roll music
+			{IPTCsubj:01011006}
+		hip-hop
+			{IPTCsubj:01011007}
+	painting
+		{IPTCsubj:01012000}
+	photography
+		{IPTCsubj:01013000}
+	radio
+		{IPTCsubj:01014000}
+	sculpture
+		{IPTCsubj:01015000}
+		plastic art
+			{IPTCsubj:01015001}
+	television
+		{IPTCsubj:01016000}
+		soap opera
+			{IPTCsubj:01016001}
+	theatre
+		{IPTCsubj:01017000}
+		music theatre
+			{IPTCsubj:01017001}
+	monument and heritage site
+		{IPTCsubj:01018000}
+		institution-DEPRECATED
+			{IPTCsubj:01018001}
+	customs and tradition
+		{IPTCsubj:01019000}
+	arts (general)
+		{IPTCsubj:01020000}
+	entertainment (general)
+		{IPTCsubj:01021000}
+		entertainment award
+			{IPTCsubj:01021001}
+	culture (general)
+		{IPTCsubj:01022000}
+		cultural development
+			{IPTCsubj:01022001}
+	nightclub
+		{IPTCsubj:01023000}
+	cartoon
+		{IPTCsubj:01024000}
+	animation
+		{IPTCsubj:01025000}
+	mass media
+		{IPTCsubj:01026000}
+		periodicals
+			{IPTCsubj:01026001}
+		news media
+			{IPTCsubj:01026002}
+		newspapers
+			{IPTCsubj:01026003}
+		reviews
+			{IPTCsubj:01026004}
+	internet
+		{IPTCsubj:01027000}
+	history
+		{IPTCsubj:01028000}
+crime, law and justice
+	{IPTCsubj:02000000}
+	crime
+		{IPTCsubj:02001000}
+		homicide
+			{IPTCsubj:02001001}
+		computer crime
+			{IPTCsubj:02001002}
+		theft
+			{IPTCsubj:02001003}
+		drug trafficking
+			{IPTCsubj:02001004}
+		sexual assault
+			{IPTCsubj:02001005}
+		assault (general)
+			{IPTCsubj:02001006}
+		kidnapping
+			{IPTCsubj:02001007}
+		arson
+			{IPTCsubj:02001008}
+		gang activity
+			{IPTCsubj:02001009}
+		terrorism
+			{IPTCsubj:02001010}
+	judiciary (system of justice)
+		{IPTCsubj:02002000}
+		lawyer
+			{IPTCsubj:02002001}
+		judge
+			{IPTCsubj:02002002}
+		court administration
+			{IPTCsubj:02002003}
+	police
+		{IPTCsubj:02003000}
+		law enforcement
+			{IPTCsubj:02003001}
+		investigation
+			{IPTCsubj:02003002}
+		arrest
+			{IPTCsubj:02003003}
+	punishment
+		{IPTCsubj:02004000}
+		fine
+			{IPTCsubj:02004001}
+		execution
+			{IPTCsubj:02004002}
+	prison
+		{IPTCsubj:02005000}
+	laws
+		{IPTCsubj:02006000}
+		criminal
+			{IPTCsubj:02006001}
+		civil
+			{IPTCsubj:02006002}
+	justice and rights
+		{IPTCsubj:02007000}
+		civil rights
+			{IPTCsubj:02007001}
+	trials
+		{IPTCsubj:02008000}
+		litigation
+			{IPTCsubj:02008001}
+		arbitration
+			{IPTCsubj:02008002}
+		court preliminary
+			{IPTCsubj:02008003}
+	prosecution
+		{IPTCsubj:02009000}
+		defendant
+			{IPTCsubj:02009001}
+		witness
+			{IPTCsubj:02009002}
+	organized crime
+		{IPTCsubj:02010000}
+	international law
+		{IPTCsubj:02011000}
+		international court or tribunal
+			{IPTCsubj:02011001}
+		extradition
+			{IPTCsubj:02011002}
+	corporate crime
+		{IPTCsubj:02012000}
+		fraud
+			{IPTCsubj:02012001}
+		embezzlement
+			{IPTCsubj:02012002}
+		restraint of trade
+			{IPTCsubj:02012003}
+		breach of contract
+			{IPTCsubj:02012004}
+		anti-trust crime
+			{IPTCsubj:02012005}
+		corruption
+			{IPTCsubj:02012006}
+		bribery
+			{IPTCsubj:02012007}
+	war crime
+		{IPTCsubj:02013000}
+	inquest
+		{IPTCsubj:02014000}
+	inquiry
+		{IPTCsubj:02015000}
+	tribunal
+		{IPTCsubj:02016000}
+disaster and accident
+	{IPTCsubj:03000000}
+	drought
+		{IPTCsubj:03001000}
+	earthquake
+		{IPTCsubj:03002000}
+	famine
+		{IPTCsubj:03003000}
+	fire
+		{IPTCsubj:03004000}
+	flood
+		{IPTCsubj:03005000}
+	industrial accident
+		{IPTCsubj:03006000}
+		structural failures
+			{IPTCsubj:03006001}
+	meteorological disaster
+		{IPTCsubj:03007000}
+		windstorms
+			{IPTCsubj:03007001}
+	nuclear accident
+		{IPTCsubj:03008000}
+	pollution
+		{IPTCsubj:03009000}
+	transport accident
+		{IPTCsubj:03010000}
+		road accident
+			{IPTCsubj:03010001}
+		railway accident
+			{IPTCsubj:03010002}
+		air and space accident
+			{IPTCsubj:03010003}
+		maritime accident
+			{IPTCsubj:03010004}
+	volcanic eruption
+		{IPTCsubj:03011000}
+	relief and aid organisation
+		{IPTCsubj:03012000}
+	accident (general)
+		{IPTCsubj:03013000}
+	emergency incident
+		{IPTCsubj:03014000}
+		explosion
+			{IPTCsubj:03014001}
+	disaster (general)
+		{IPTCsubj:03015000}
+		natural disasters
+			{IPTCsubj:03015001}
+		avalanche/landslide
+			{IPTCsubj:03015002}
+	emergency planning
+		{IPTCsubj:03016000}
+	rescue
+		{IPTCsubj:03017000}
+economy, business and finance
+	{IPTCsubj:04000000}
+	agriculture
+		{IPTCsubj:04001000}
+		arable farming
+			{IPTCsubj:04001001}
+		fishing industry
+			{IPTCsubj:04001002}
+		forestry and timber
+			{IPTCsubj:04001003}
+		livestock farming
+			{IPTCsubj:04001004}
+		viniculture
+			{IPTCsubj:04001005}
+		aquaculture
+			{IPTCsubj:04001006}
+	chemicals
+		{IPTCsubj:04002000}
+		biotechnology
+			{IPTCsubj:04002001}
+		fertiliser
+			{IPTCsubj:04002002}
+		health and beauty product
+			{IPTCsubj:04002003}
+		inorganic chemical
+			{IPTCsubj:04002004}
+		organic chemical
+			{IPTCsubj:04002005}
+		pharmaceutical
+			{IPTCsubj:04002006}
+		synthetic and plastic
+			{IPTCsubj:04002007}
+	computing and information technology
+		{IPTCsubj:04003000}
+		hardware
+			{IPTCsubj:04003001}
+		networking
+			{IPTCsubj:04003002}
+		satellite technology
+			{IPTCsubj:04003003}
+		semiconductors and active components
+			{IPTCsubj:04003004}
+		software
+			{IPTCsubj:04003005}
+		telecommunication equipment
+			{IPTCsubj:04003006}
+		telecommunication service
+			{IPTCsubj:04003007}
+		security
+			{IPTCsubj:04003008}
+		wireless technology
+			{IPTCsubj:04003009}
+	construction and property
+		{IPTCsubj:04004000}
+		heavy construction
+			{IPTCsubj:04004001}
+		house building
+			{IPTCsubj:04004002}
+		real estate
+			{IPTCsubj:04004003}
+		farms
+			{IPTCsubj:04004004}
+		land price
+			{IPTCsubj:04004005}
+		renovation
+			{IPTCsubj:04004006}
+		design and engineering
+			{IPTCsubj:04004007}
+	energy and resource
+		{IPTCsubj:04005000}
+		alternative energy
+			{IPTCsubj:04005001}
+		coal
+			{IPTCsubj:04005002}
+		oil and gas - downstream activities
+			{IPTCsubj:04005003}
+		oil and gas - upstream activities
+			{IPTCsubj:04005004}
+		nuclear power
+			{IPTCsubj:04005005}
+		electricity production and distribution
+			{IPTCsubj:04005006}
+		waste management and pollution control
+			{IPTCsubj:04005007}
+		water supply
+			{IPTCsubj:04005008}
+		natural resources (general)
+			{IPTCsubj:04005009}
+		energy (general)
+			{IPTCsubj:04005010}
+		natural gas
+			{IPTCsubj:04005011}
+		petrol
+			{IPTCsubj:04005012}
+		diesel fuel
+			{IPTCsubj:04005013}
+		kerosene/paraffin
+			{IPTCsubj:04005014}
+	financial and business service
+		{IPTCsubj:04006000}
+		accountancy and auditing
+			{IPTCsubj:04006001}
+		banking
+			{IPTCsubj:04006002}
+		consultancy service
+			{IPTCsubj:04006003}
+		employment agency
+			{IPTCsubj:04006004}
+		healthcare provider
+			{IPTCsubj:04006005}
+		insurance
+			{IPTCsubj:04006006}
+		legal service
+			{IPTCsubj:04006007}
+		market research
+			{IPTCsubj:04006008}
+		stock broking
+			{IPTCsubj:04006009}
+		personal investing
+			{IPTCsubj:04006010}
+		market trend
+			{IPTCsubj:04006011}
+		shipping service
+			{IPTCsubj:04006012}
+		personal service
+			{IPTCsubj:04006013}
+		janitorial service
+			{IPTCsubj:04006014}
+		funeral parlour and crematorium
+			{IPTCsubj:04006015}
+		rental service
+			{IPTCsubj:04006016}
+		wedding service
+			{IPTCsubj:04006017}
+		personal finance
+			{IPTCsubj:04006018}
+		personal income
+			{IPTCsubj:04006019}
+		auction service
+			{IPTCsubj:04006020}
+		printing/promotional service
+			{IPTCsubj:04006021}
+		investment service
+			{IPTCsubj:04006022}
+	consumer goods
+		{IPTCsubj:04007000}
+		clothing
+			{IPTCsubj:04007001}
+		department store
+			{IPTCsubj:04007002}
+		food
+			{IPTCsubj:04007003}
+		mail order
+			{IPTCsubj:04007004}
+		retail
+			{IPTCsubj:04007005}
+		speciality store
+			{IPTCsubj:04007006}
+		wholesale
+			{IPTCsubj:04007007}
+		beverage
+			{IPTCsubj:04007008}
+		electronic commerce
+			{IPTCsubj:04007009}
+		luxury good
+			{IPTCsubj:04007010}
+		non-durable good
+			{IPTCsubj:04007011}
+		toy
+			{IPTCsubj:04007012}
+	macro economics
+		{IPTCsubj:04008000}
+		central bank
+			{IPTCsubj:04008001}
+		consumer issue
+			{IPTCsubj:04008002}
+		debt market
+			{IPTCsubj:04008003}
+		economic indicator
+			{IPTCsubj:04008004}
+		emerging market
+			{IPTCsubj:04008005}
+		foreign exchange market
+			{IPTCsubj:04008006}
+		government aid
+			{IPTCsubj:04008007}
+		government debt
+			{IPTCsubj:04008008}
+		interest rate
+			{IPTCsubj:04008009}
+		international economic institution
+			{IPTCsubj:04008010}
+		international (foreign) trade
+			{IPTCsubj:04008011}
+		loan market
+			{IPTCsubj:04008012}
+		economic organization
+			{IPTCsubj:04008013}
+		consumer confidence
+			{IPTCsubj:04008014}
+		trade dispute
+			{IPTCsubj:04008015}
+		inflation and deflation
+			{IPTCsubj:04008016}
+		prices
+			{IPTCsubj:04008017}
+		currency values
+			{IPTCsubj:04008018}
+		budgets and budgeting
+			{IPTCsubj:04008019}
+		credit and debt
+			{IPTCsubj:04008020}
+		loans
+			{IPTCsubj:04008021}
+		mortgages
+			{IPTCsubj:04008022}
+		financial markets
+			{IPTCsubj:04008023}
+		commodity markets
+			{IPTCsubj:04008024}
+		investments
+			{IPTCsubj:04008025}
+		stocks
+			{IPTCsubj:04008026}
+		bonds
+			{IPTCsubj:04008027}
+		mutual funds
+			{IPTCsubj:04008028}
+		derivative securities
+			{IPTCsubj:04008029}
+		imports
+			{IPTCsubj:04008030}
+		exports
+			{IPTCsubj:04008031}
+		trade agreements
+			{IPTCsubj:04008032}
+		trade policy
+			{IPTCsubj:04008033}
+		business enterprises
+			{IPTCsubj:04008034}
+		tariff
+			{IPTCsubj:04008035}
+		trade balance
+			{IPTCsubj:04008036}
+	market and exchange
+		{IPTCsubj:04009000}
+		energy
+			{IPTCsubj:04009001}
+		metal
+			{IPTCsubj:04009002}
+		securities
+			{IPTCsubj:04009003}
+		soft commodity
+			{IPTCsubj:04009004}
+	media
+		{IPTCsubj:04010000}
+		advertising
+			{IPTCsubj:04010001}
+		book
+			{IPTCsubj:04010002}
+		cinema industry
+			{IPTCsubj:04010003}
+		news agency
+			{IPTCsubj:04010004}
+		newspaper and magazine
+			{IPTCsubj:04010005}
+		online
+			{IPTCsubj:04010006}
+		public relation
+			{IPTCsubj:04010007}
+		radio industry
+			{IPTCsubj:04010008}
+		satellite and cable service
+			{IPTCsubj:04010009}
+		television industry
+			{IPTCsubj:04010010}
+		music industry
+			{IPTCsubj:04010011}
+	manufacturing and engineering
+		{IPTCsubj:04011000}
+		aerospace
+			{IPTCsubj:04011001}
+		automotive equipment
+			{IPTCsubj:04011002}
+		defence equipment
+			{IPTCsubj:04011003}
+		electrical appliance
+			{IPTCsubj:04011004}
+		heavy engineering
+			{IPTCsubj:04011005}
+		industrial component
+			{IPTCsubj:04011006}
+		instrument engineering
+			{IPTCsubj:04011007}
+		shipbuilding
+			{IPTCsubj:04011008}
+		machine manufacturing
+			{IPTCsubj:04011009}
+	metal and mineral
+		{IPTCsubj:04012000}
+		building material
+			{IPTCsubj:04012001}
+		gold and precious material
+			{IPTCsubj:04012002}
+		iron and steel
+			{IPTCsubj:04012003}
+		non ferrous metal
+			{IPTCsubj:04012004}
+		mining
+			{IPTCsubj:04012005}
+	process industry
+		{IPTCsubj:04013000}
+		distiller and brewer
+			{IPTCsubj:04013001}
+		food
+			{IPTCsubj:04013002}
+		furnishings and furniture
+			{IPTCsubj:04013003}
+		paper and packaging product
+			{IPTCsubj:04013004}
+		rubber product
+			{IPTCsubj:04013005}
+		soft drinks
+			{IPTCsubj:04013006}
+		textile and clothing
+			{IPTCsubj:04013007}
+		tobacco
+			{IPTCsubj:04013008}
+	tourism and leisure
+		{IPTCsubj:04014000}
+		casino and gambling
+			{IPTCsubj:04014001}
+		hotel and accommodation
+			{IPTCsubj:04014002}
+		recreational and sporting goods
+			{IPTCsubj:04014003}
+		restaurant and catering
+			{IPTCsubj:04014004}
+		tour operator
+			{IPTCsubj:04014005}
+	transport
+		{IPTCsubj:04015000}
+		air transport
+			{IPTCsubj:04015001}
+		railway
+			{IPTCsubj:04015002}
+		road transport
+			{IPTCsubj:04015003}
+		waterway and maritime transport
+			{IPTCsubj:04015004}
+	company information
+		{IPTCsubj:04016000}
+		accounting and audit
+			{IPTCsubj:04016001}
+		annual and special corporate meeting
+			{IPTCsubj:04016002}
+		annual report
+			{IPTCsubj:04016003}
+		antitrust issue
+			{IPTCsubj:04016004}
+		merger, acquisition and takeover
+			{IPTCsubj:04016005}
+		analysts' comment
+			{IPTCsubj:04016006}
+		bankruptcy
+			{IPTCsubj:04016007}
+		board of directors (appointment and change)
+			{IPTCsubj:04016008}
+		buyback
+			{IPTCsubj:04016009}
+		C.E.O. interview
+			{IPTCsubj:04016010}
+		corporate officer
+			{IPTCsubj:04016011}
+		corporate profile
+			{IPTCsubj:04016012}
+		contract
+			{IPTCsubj:04016013}
+		defence contract
+			{IPTCsubj:04016014}
+		dividend announcement
+			{IPTCsubj:04016015}
+		earnings forecast
+			{IPTCsubj:04016016}
+		financially distressed company
+			{IPTCsubj:04016017}
+		earnings
+			{IPTCsubj:04016018}
+		financing and stock offering
+			{IPTCsubj:04016019}
+		government contract
+			{IPTCsubj:04016020}
+		global expansion
+			{IPTCsubj:04016021}
+		insider trading
+			{IPTCsubj:04016022}
+		joint venture
+			{IPTCsubj:04016023}
+		leveraged buyout
+			{IPTCsubj:04016024}
+		layoffs and downsizing
+			{IPTCsubj:04016025}
+		licensing agreement
+			{IPTCsubj:04016026}
+		litigation and regulation
+			{IPTCsubj:04016027}
+		management change
+			{IPTCsubj:04016028}
+		marketing
+			{IPTCsubj:04016029}
+		new product
+			{IPTCsubj:04016030}
+		patent, copyright and trademark
+			{IPTCsubj:04016031}
+		plant closing
+			{IPTCsubj:04016032}
+		plant opening
+			{IPTCsubj:04016033}
+		privatisation
+			{IPTCsubj:04016034}
+		proxy filing
+			{IPTCsubj:04016035}
+		rating
+			{IPTCsubj:04016036}
+		research and development
+			{IPTCsubj:04016037}
+		quarterly or semiannual financial statement
+			{IPTCsubj:04016038}
+		restructuring and recapitalisation
+			{IPTCsubj:04016039}
+		spin-off
+			{IPTCsubj:04016040}
+		stock activity
+			{IPTCsubj:04016041}
+		industrial production
+			{IPTCsubj:04016042}
+		productivity
+			{IPTCsubj:04016043}
+		inventories
+			{IPTCsubj:04016044}
+		sales
+			{IPTCsubj:04016045}
+		corporations
+			{IPTCsubj:04016046}
+		shareholders
+			{IPTCsubj:04016047}
+		corporate performance
+			{IPTCsubj:04016048}
+		losses
+			{IPTCsubj:04016049}
+		credit ratings
+			{IPTCsubj:04016050}
+		stock splits
+			{IPTCsubj:04016051}
+		stock options
+			{IPTCsubj:04016052}
+		recalls (products)
+			{IPTCsubj:04016053}
+		globalization
+			{IPTCsubj:04016054}
+		consumers
+			{IPTCsubj:04016055}
+		purchase
+			{IPTCsubj:04016056}
+		new service
+			{IPTCsubj:04016057}
+	economy (general)
+		{IPTCsubj:04017000}
+		economic policy
+			{IPTCsubj:04017001}
+	business (general)
+		{IPTCsubj:04018000}
+		institution
+			{IPTCsubj:04018001}
+	finance (general)
+		{IPTCsubj:04019000}
+		money and monetary policy
+			{IPTCsubj:04019001}
+education
+	{IPTCsubj:05000000}
+	adult education
+		{IPTCsubj:05001000}
+	further education
+		{IPTCsubj:05002000}
+	parent organisation
+		{IPTCsubj:05003000}
+	preschool
+		{IPTCsubj:05004000}
+	school
+		{IPTCsubj:05005000}
+		elementary schools
+			{IPTCsubj:05005001}
+		middle schools
+			{IPTCsubj:05005002}
+		high schools
+			{IPTCsubj:05005003}
+	teachers union
+		{IPTCsubj:05006000}
+	university
+		{IPTCsubj:05007000}
+	upbringing
+		{IPTCsubj:05008000}
+	entrance examination
+		{IPTCsubj:05009000}
+	teaching and learning
+		{IPTCsubj:05010000}
+		students
+			{IPTCsubj:05010001}
+		teachers
+			{IPTCsubj:05010002}
+		curriculum
+			{IPTCsubj:05010003}
+		test/examination
+			{IPTCsubj:05010004}
+	religious education
+		{IPTCsubj:05011000}
+		parochial school
+			{IPTCsubj:05011001}
+		seminary
+			{IPTCsubj:05011002}
+		yeshiva
+			{IPTCsubj:05011003}
+		madrasa
+			{IPTCsubj:05011004}
+environmental issue
+	{IPTCsubj:06000000}
+	renewable energy
+		{IPTCsubj:06001000}
+	conservation
+		{IPTCsubj:06002000}
+		endangered species
+			{IPTCsubj:06002001}
+		ecosystem
+			{IPTCsubj:06002002}
+	energy saving
+		{IPTCsubj:06003000}
+	environmental politics
+		{IPTCsubj:06004000}
+	environmental pollution
+		{IPTCsubj:06005000}
+		air pollution
+			{IPTCsubj:06005001}
+		water pollution
+			{IPTCsubj:06005002}
+	natural resources
+		{IPTCsubj:06006000}
+		land resources
+			{IPTCsubj:06006001}
+		parks
+			{IPTCsubj:06006002}
+		forests
+			{IPTCsubj:06006003}
+		wetlands
+			{IPTCsubj:06006004}
+		mountains
+			{IPTCsubj:06006005}
+		rivers
+			{IPTCsubj:06006006}
+		oceans
+			{IPTCsubj:06006007}
+		wildlife
+			{IPTCsubj:06006008}
+		energy resources
+			{IPTCsubj:06006009}
+	nature
+		{IPTCsubj:06007000}
+		invasive species
+			{IPTCsubj:06007001}
+	population
+		{IPTCsubj:06008000}
+	waste
+		{IPTCsubj:06009000}
+	water
+		{IPTCsubj:06010000}
+	global warming
+		{IPTCsubj:06011000}
+	hazardous materials
+		{IPTCsubj:06012000}
+	environmental cleanup
+		{IPTCsubj:06013000}
+health
+	{IPTCsubj:07000000}
+	disease
+		{IPTCsubj:07001000}
+		communicable diseases
+			{IPTCsubj:07001001}
+		virus diseases
+			{IPTCsubj:07001002}
+		AIDS
+			{IPTCsubj:07001003}
+		cancer
+			{IPTCsubj:07001004}
+		heart disease
+			{IPTCsubj:07001005}
+		alzheimer's disease
+			{IPTCsubj:07001006}
+		animal diseases
+			{IPTCsubj:07001007}
+		plant diseases
+			{IPTCsubj:07001008}
+		retrovirus
+			{IPTCsubj:07001009}
+	epidemic and plague
+		{IPTCsubj:07002000}
+	health treatment
+		{IPTCsubj:07003000}
+		prescription drugs
+			{IPTCsubj:07003001}
+		dietary supplements
+			{IPTCsubj:07003002}
+		diet
+			{IPTCsubj:07003003}
+		medical procedure/test
+			{IPTCsubj:07003004}
+		therapy
+			{IPTCsubj:07003005}
+	health organisations
+		{IPTCsubj:07004000}
+	medical research
+		{IPTCsubj:07005000}
+	medical staff
+		{IPTCsubj:07006000}
+		primary care physician
+			{IPTCsubj:07006001}
+		health-workers union
+			{IPTCsubj:07006002}
+	medicine
+		{IPTCsubj:07007000}
+		herbal
+			{IPTCsubj:07007001}
+		holistic
+			{IPTCsubj:07007002}
+		western
+			{IPTCsubj:07007003}
+		traditional Chinese
+			{IPTCsubj:07007004}
+	preventative medicine
+		{IPTCsubj:07008000}
+		vaccines
+			{IPTCsubj:07008001}
+	injury
+		{IPTCsubj:07009000}
+	hospital and clinic
+		{IPTCsubj:07010000}
+	government health care
+		{IPTCsubj:07011000}
+		medicare
+			{IPTCsubj:07011001}
+		medicaid
+			{IPTCsubj:07011002}
+	private health care
+		{IPTCsubj:07012000}
+	healthcare policy
+		{IPTCsubj:07013000}
+		food safety
+			{IPTCsubj:07013001}
+	medical specialisation
+		{IPTCsubj:07014000}
+		geriatric
+			{IPTCsubj:07014001}
+		pediatrics
+			{IPTCsubj:07014002}
+		reproduction
+			{IPTCsubj:07014003}
+		genetics
+			{IPTCsubj:07014004}
+		obstetrics/gynecology
+			{IPTCsubj:07014005}
+	medical service
+		{IPTCsubj:07015000}
+	physical fitness
+		{IPTCsubj:07016000}
+	illness
+		{IPTCsubj:07017000}
+		mental illness
+			{IPTCsubj:07017001}
+		eating disorder
+			{IPTCsubj:07017002}
+		obesity
+			{IPTCsubj:07017003}
+	medical conditions
+		{IPTCsubj:07018000}
+	patient
+		{IPTCsubj:07019000}
+human interest
+	{IPTCsubj:08000000}
+	animal
+		{IPTCsubj:08001000}
+	curiosity
+		{IPTCsubj:08002000}
+	people
+		{IPTCsubj:08003000}
+		advice
+			{IPTCsubj:08003001}
+		celebrity
+			{IPTCsubj:08003002}
+		accomplishment
+			{IPTCsubj:08003003}
+		human mishap
+			{IPTCsubj:08003004}
+		fortune-telling
+			{IPTCsubj:08003005}
+	mystery
+		{IPTCsubj:08004000}
+	society
+		{IPTCsubj:08005000}
+		ceremony
+			{IPTCsubj:08005001}
+		death
+			{IPTCsubj:08005002}
+		funeral
+			{IPTCsubj:08005003}
+		estate bestowal
+			{IPTCsubj:08005004}
+		memorial
+			{IPTCsubj:08005005}
+	award and prize
+		{IPTCsubj:08006000}
+		record
+			{IPTCsubj:08006001}
+	imperial and royal matters
+		{IPTCsubj:08007000}
+	plant
+		{IPTCsubj:08008000}
+labour
+	{IPTCsubj:09000000}
+	apprentices
+		{IPTCsubj:09001000}
+	collective contract
+		{IPTCsubj:09002000}
+		contract issue-wages
+			{IPTCsubj:09002001}
+		contract issue-healthcare
+			{IPTCsubj:09002002}
+		contract issue-work rules
+			{IPTCsubj:09002003}
+	employment
+		{IPTCsubj:09003000}
+		labor market
+			{IPTCsubj:09003001}
+		job layoffs
+			{IPTCsubj:09003002}
+		child labor
+			{IPTCsubj:09003003}
+		occupations
+			{IPTCsubj:09003004}
+	labour dispute
+		{IPTCsubj:09004000}
+	labour legislation
+		{IPTCsubj:09005000}
+	retirement
+		{IPTCsubj:09006000}
+	retraining
+		{IPTCsubj:09007000}
+	strike
+		{IPTCsubj:09008000}
+	unemployment
+		{IPTCsubj:09009000}
+	unions
+		{IPTCsubj:09010000}
+	wage and pension
+		{IPTCsubj:09011000}
+		employee benefits
+			{IPTCsubj:09011001}
+		social security
+			{IPTCsubj:09011002}
+	work relations
+		{IPTCsubj:09012000}
+	health and safety at work
+		{IPTCsubj:09013000}
+	advanced training
+		{IPTCsubj:09014000}
+	employer
+		{IPTCsubj:09015000}
+	employee
+		{IPTCsubj:09016000}
+lifestyle and leisure
+	{IPTCsubj:10000000}
+	game
+		{IPTCsubj:10001000}
+		Go
+			{IPTCsubj:10001001}
+		chess
+			{IPTCsubj:10001002}
+		bridge
+			{IPTCsubj:10001003}
+		shogi
+			{IPTCsubj:10001004}
+	gaming and lottery
+		{IPTCsubj:10002000}
+	gastronomy
+		{IPTCsubj:10003000}
+		organic foods
+			{IPTCsubj:10003001}
+	hobby
+		{IPTCsubj:10004000}
+		DIY
+			{IPTCsubj:10004001}
+		shopping
+			{IPTCsubj:10004002}
+		gardening
+			{IPTCsubj:10004003}
+	holiday or vacation
+		{IPTCsubj:10005000}
+	tourism
+		{IPTCsubj:10006000}
+	travel and commuting
+		{IPTCsubj:10007000}
+		traffic
+			{IPTCsubj:10007001}
+	club and association
+		{IPTCsubj:10008000}
+	lifestyle (house and home)
+		{IPTCsubj:10009000}
+	leisure (general)
+		{IPTCsubj:10010000}
+	public holiday
+		{IPTCsubj:10011000}
+	hunting
+		{IPTCsubj:10012000}
+	fishing
+		{IPTCsubj:10013000}
+	auto trends
+		{IPTCsubj:10014000}
+	adventure
+		{IPTCsubj:10015000}
+	beauty
+		{IPTCsubj:10016000}
+	consumer issue
+		{IPTCsubj:10017000}
+	wedding
+		{IPTCsubj:10018000}
+politics
+	{IPTCsubj:11000000}
+	defence
+		{IPTCsubj:11001000}
+		veterans affairs
+			{IPTCsubj:11001001}
+		national security
+			{IPTCsubj:11001002}
+		security measures
+			{IPTCsubj:11001003}
+		armed Forces
+			{IPTCsubj:11001004}
+		military equipment
+			{IPTCsubj:11001005}
+		firearms
+			{IPTCsubj:11001006}
+		biological and chemical weapons
+			{IPTCsubj:11001007}
+		missile systems
+			{IPTCsubj:11001008}
+		nuclear weapons
+			{IPTCsubj:11001009}
+	diplomacy
+		{IPTCsubj:11002000}
+		summit
+			{IPTCsubj:11002001}
+		international relations
+			{IPTCsubj:11002002}
+		peace negotiations
+			{IPTCsubj:11002003}
+		alliances
+			{IPTCsubj:11002004}
+	election
+		{IPTCsubj:11003000}
+		political candidates
+			{IPTCsubj:11003001}
+		political campaigns
+			{IPTCsubj:11003002}
+		campaign finance
+			{IPTCsubj:11003003}
+		national elections
+			{IPTCsubj:11003004}
+		regional elections
+			{IPTCsubj:11003005}
+		local elections
+			{IPTCsubj:11003006}
+		voting
+			{IPTCsubj:11003007}
+		poll
+			{IPTCsubj:11003008}
+		european elections
+			{IPTCsubj:11003009}
+		primary
+			{IPTCsubj:11003010}
+	espionage and intelligence
+		{IPTCsubj:11004000}
+	foreign aid
+		{IPTCsubj:11005000}
+		economic sanction
+			{IPTCsubj:11005001}
+	government
+		{IPTCsubj:11006000}
+		civil and public service
+			{IPTCsubj:11006001}
+		safety of citizens
+			{IPTCsubj:11006002}
+		think tank
+			{IPTCsubj:11006003}
+		national government
+			{IPTCsubj:11006004}
+		executive (government)
+			{IPTCsubj:11006005}
+		heads of state
+			{IPTCsubj:11006006}
+		government departments
+			{IPTCsubj:11006007}
+		public officials
+			{IPTCsubj:11006008}
+		ministers (government)
+			{IPTCsubj:11006009}
+		public employees
+			{IPTCsubj:11006010}
+		privatisation
+			{IPTCsubj:11006011}
+		nationalisation
+			{IPTCsubj:11006012}
+		impeachment
+			{IPTCsubj:11006013}
+	human rights
+		{IPTCsubj:11007000}
+	local authority
+		{IPTCsubj:11008000}
+	parliament
+		{IPTCsubj:11009000}
+		upper house
+			{IPTCsubj:11009001}
+		lower house
+			{IPTCsubj:11009002}
+	parties and movements
+		{IPTCsubj:11010000}
+		non government organizations (NGO)
+			{IPTCsubj:11010001}
+	refugee
+		{IPTCsubj:11011000}
+	regional authority
+		{IPTCsubj:11012000}
+	state budget and tax
+		{IPTCsubj:11013000}
+		public finance
+			{IPTCsubj:11013001}
+	treaty and international organisation-DEPRECATED
+		{IPTCsubj:11014000}
+		international relations-DEPRECATED
+			{IPTCsubj:11014001}
+		peace negotiations-DEPRECATED
+			{IPTCsubj:11014002}
+		alliances-DEPRECATED
+			{IPTCsubj:11014003}
+	constitution
+		{IPTCsubj:11015000}
+	interior policy
+		{IPTCsubj:11016000}
+		data protection
+			{IPTCsubj:11016001}
+		housing and urban planning
+			{IPTCsubj:11016002}
+		pension and welfare
+			{IPTCsubj:11016003}
+		personal weapon control
+			{IPTCsubj:11016004}
+		indigenous people
+			{IPTCsubj:11016005}
+		personal data collection
+			{IPTCsubj:11016006}
+		planning inquiries
+			{IPTCsubj:11016007}
+	migration
+		{IPTCsubj:11017000}
+	citizens initiative and recall
+		{IPTCsubj:11018000}
+	referenda
+		{IPTCsubj:11019000}
+	nuclear policy
+		{IPTCsubj:11020000}
+	lobbying
+		{IPTCsubj:11021000}
+	regulatory policy and organisation
+		{IPTCsubj:11022000}
+	censorship
+		{IPTCsubj:11023000}
+	politics (general)
+		{IPTCsubj:11024000}
+		political systems
+			{IPTCsubj:11024001}
+		democracy
+			{IPTCsubj:11024002}
+		political development
+			{IPTCsubj:11024003}
+	freedom of the press
+		{IPTCsubj:11025000}
+	freedom of religion
+		{IPTCsubj:11026000}
+	treaty
+		{IPTCsubj:11027000}
+	international organisation
+		{IPTCsubj:11028000}
+religion and belief
+	{IPTCsubj:12000000}
+	cult and sect
+		{IPTCsubj:12001000}
+	belief (faith)
+		{IPTCsubj:12002000}
+		unificationism
+			{IPTCsubj:12002001}
+		scientology
+			{IPTCsubj:12002002}
+	freemasonry
+		{IPTCsubj:12003000}
+	religion-DEPRECATED
+		{IPTCsubj:12004000}
+		christianity-DEPRECATED
+			{IPTCsubj:12004001}
+		islam-DEPRECATED
+			{IPTCsubj:12004002}
+		judaism-DEPRECATED
+			{IPTCsubj:12004003}
+		buddhism-DEPRECATED
+			{IPTCsubj:12004004}
+		hinduism-DEPRECATED
+			{IPTCsubj:12004005}
+	church (organisation)-DEPRECATED
+		{IPTCsubj:12005000}
+		religious facilities-DEPRECATED
+			{IPTCsubj:12005001}
+	values
+		{IPTCsubj:12006000}
+		ethics
+			{IPTCsubj:12006001}
+		corrupt practices
+			{IPTCsubj:12006002}
+	church and state relations
+		{IPTCsubj:12007000}
+	philosophy
+		{IPTCsubj:12008000}
+	christianity
+		{IPTCsubj:12009000}
+		protestant
+			{IPTCsubj:12009001}
+		lutheran
+			{IPTCsubj:12009002}
+		reformed
+			{IPTCsubj:12009003}
+		anglican
+			{IPTCsubj:12009004}
+		methodist
+			{IPTCsubj:12009005}
+		baptist
+			{IPTCsubj:12009006}
+		mennonite
+			{IPTCsubj:12009007}
+		mormon
+			{IPTCsubj:12009009}
+		roman catholic
+			{IPTCsubj:12009010}
+		old catholic
+			{IPTCsubj:12009011}
+		orthodoxy
+			{IPTCsubj:12009012}
+		salvation army
+			{IPTCsubj:12009013}
+	islam
+		{IPTCsubj:12010000}
+	judaism
+		{IPTCsubj:12011000}
+	buddhism
+		{IPTCsubj:12012000}
+	hinduism
+		{IPTCsubj:12013000}
+	religious festival or holiday
+		{IPTCsubj:12014000}
+		christmas
+			{IPTCsubj:12014001}
+		easter
+			{IPTCsubj:12014002}
+		pentecost
+			{IPTCsubj:12014003}
+		ramadan
+			{IPTCsubj:12014004}
+		yom kippur
+			{IPTCsubj:12014005}
+	religious leader
+		{IPTCsubj:12015000}
+		pope
+			{IPTCsubj:12015001}
+	nature religion
+		{IPTCsubj:12016000}
+	taoism
+		{IPTCsubj:12017000}
+	shintoism
+		{IPTCsubj:12018000}
+	sikhism
+		{IPTCsubj:12019000}
+	jainism
+		{IPTCsubj:12020000}
+	parsasm
+		{IPTCsubj:12021000}
+	confucianism
+		{IPTCsubj:12022000}
+	religious text
+		{IPTCsubj:12023000}
+		bible
+			{IPTCsubj:12023001}
+		qur'an
+			{IPTCsubj:12023002}
+		torah
+			{IPTCsubj:12023003}
+	interreligious dialogue
+		{IPTCsubj:12024000}
+	religious event
+		{IPTCsubj:12025000}
+		catholic convention
+			{IPTCsubj:12025001}
+		protestant convention
+			{IPTCsubj:12025002}
+		ritual
+			{IPTCsubj:12025004}
+	concordat
+		{IPTCsubj:12026000}
+	ecumenism
+		{IPTCsubj:12027000}
+science and technology
+	{IPTCsubj:13000000}
+	applied science
+		{IPTCsubj:13001000}
+		physics
+			{IPTCsubj:13001001}
+		chemistry
+			{IPTCsubj:13001002}
+		cosmology
+			{IPTCsubj:13001003}
+		particle physics
+			{IPTCsubj:13001004}
+	engineering
+		{IPTCsubj:13002000}
+		material science
+			{IPTCsubj:13002001}
+	human science
+		{IPTCsubj:13003000}
+		social sciences
+			{IPTCsubj:13003001}
+		history
+			{IPTCsubj:13003002}
+		psychology
+			{IPTCsubj:13003003}
+		sociology
+			{IPTCsubj:13003004}
+		anthropology
+			{IPTCsubj:13003005}
+	natural science
+		{IPTCsubj:13004000}
+		geology
+			{IPTCsubj:13004001}
+		paleontology
+			{IPTCsubj:13004002}
+		geography
+			{IPTCsubj:13004003}
+		botany
+			{IPTCsubj:13004004}
+		zoology
+			{IPTCsubj:13004005}
+		physiology
+			{IPTCsubj:13004006}
+		astronomy
+			{IPTCsubj:13004007}
+		biology
+			{IPTCsubj:13004008}
+	philosophical science
+		{IPTCsubj:13005000}
+	research
+		{IPTCsubj:13006000}
+		survey
+			{IPTCsubj:13006001}
+	scientific exploration
+		{IPTCsubj:13007000}
+	space programme
+		{IPTCsubj:13008000}
+	science (general)
+		{IPTCsubj:13009000}
+	technology (general)
+		{IPTCsubj:13010000}
+		rocketry
+			{IPTCsubj:13010001}
+		laser
+			{IPTCsubj:13010002}
+	standards
+		{IPTCsubj:13011000}
+	animal science
+		{IPTCsubj:13012000}
+	micro science
+		{IPTCsubj:13013000}
+	marine science
+		{IPTCsubj:13014000}
+	weather science
+		{IPTCsubj:13015000}
+	electronics
+		{IPTCsubj:13016000}
+	identification technology
+		{IPTCsubj:13017000}
+	mathematics
+		{IPTCsubj:13018000}
+	biotechnology
+		{IPTCsubj:13019000}
+	agricultural research and technology
+		{IPTCsubj:13020000}
+	nanotechnology
+		{IPTCsubj:13021000}
+	IT/computer sciences
+		{IPTCsubj:13022000}
+	scientific institutions
+		{IPTCsubj:13023000}
+social issue
+	{IPTCsubj:14000000}
+	addiction
+		{IPTCsubj:14001000}
+	charity
+		{IPTCsubj:14002000}
+	demographics
+		{IPTCsubj:14003000}
+		population and census
+			{IPTCsubj:14003001}
+		immigration
+			{IPTCsubj:14003002}
+		illegal immigrants
+			{IPTCsubj:14003003}
+		emigrants
+			{IPTCsubj:14003004}
+	disabled
+		{IPTCsubj:14004000}
+	euthanasia (also includes assisted suicide)
+		{IPTCsubj:14005000}
+		suicide
+			{IPTCsubj:14005001}
+	family
+		{IPTCsubj:14006000}
+		parent and child
+			{IPTCsubj:14006001}
+		adoption
+			{IPTCsubj:14006002}
+		marriage
+			{IPTCsubj:14006003}
+		divorce
+			{IPTCsubj:14006004}
+		sex
+			{IPTCsubj:14006005}
+		courtship
+			{IPTCsubj:14006006}
+	family planning
+		{IPTCsubj:14007000}
+	health insurance
+		{IPTCsubj:14008000}
+	homelessness
+		{IPTCsubj:14009000}
+	minority group
+		{IPTCsubj:14010000}
+		gays and lesbians
+			{IPTCsubj:14010001}
+		national or ethnic minority
+			{IPTCsubj:14010002}
+	pornography
+		{IPTCsubj:14011000}
+	poverty
+		{IPTCsubj:14012000}
+	prostitution
+		{IPTCsubj:14013000}
+	racism
+		{IPTCsubj:14014000}
+	welfare
+		{IPTCsubj:14015000}
+	abortion
+		{IPTCsubj:14016000}
+	missing person
+		{IPTCsubj:14017000}
+		missing due to hostilities
+			{IPTCsubj:14017001}
+	long term care
+		{IPTCsubj:14018000}
+	juvenile delinquency
+		{IPTCsubj:14019000}
+	nuclear radiation victims
+		{IPTCsubj:14020000}
+	slavery
+		{IPTCsubj:14021000}
+	abusive behaviour
+		{IPTCsubj:14022000}
+	death and dying
+		{IPTCsubj:14023000}
+	people
+		{IPTCsubj:14024000}
+		children
+			{IPTCsubj:14024001}
+		infants
+			{IPTCsubj:14024002}
+		teen-agers
+			{IPTCsubj:14024003}
+		adults
+			{IPTCsubj:14024004}
+		senior citizens
+			{IPTCsubj:14024005}
+	social issues (general)
+		{IPTCsubj:14025000}
+		social conditions
+			{IPTCsubj:14025001}
+		social problems
+			{IPTCsubj:14025002}
+		discrimination
+			{IPTCsubj:14025003}
+		social services
+			{IPTCsubj:14025004}
+		death penalty policies
+			{IPTCsubj:14025005}
+	ordnance clearance
+		{IPTCsubj:14026000}
+	reconstruction
+		{IPTCsubj:14027000}
+sport
+	{IPTCsubj:15000000}
+	aero and aviation sport
+		{IPTCsubj:15001000}
+		parachuting
+			{IPTCsubj:15001001}
+		sky diving
+			{IPTCsubj:15001002}
+	alpine skiing
+		{IPTCsubj:15002000}
+		downhill
+			{IPTCsubj:15002001}
+		giant slalom
+			{IPTCsubj:15002002}
+		super G
+			{IPTCsubj:15002003}
+		slalom
+			{IPTCsubj:15002004}
+		combined
+			{IPTCsubj:15002005}
+	American football
+		{IPTCsubj:15003000}
+		(US) National Football League (NFL) (North American)
+			{IPTCsubj:15003001}
+		CFL
+			{IPTCsubj:15003002}
+		AFL-DEPRECATED
+			{IPTCsubj:15003003}
+	archery
+		{IPTCsubj:15004000}
+		FITA / Outdoor target archery
+			{IPTCsubj:15004001}
+		crossbow shooting
+			{IPTCsubj:15004002}
+	athletics, track and field
+		{IPTCsubj:15005000}
+		100 m
+			{IPTCsubj:15005001}
+		200 m
+			{IPTCsubj:15005002}
+		400 m
+			{IPTCsubj:15005003}
+		800 m
+			{IPTCsubj:15005004}
+		1000 m
+			{IPTCsubj:15005005}
+		1500 m
+			{IPTCsubj:15005006}
+		mile
+			{IPTCsubj:15005007}
+		2000 m
+			{IPTCsubj:15005008}
+		3000 m
+			{IPTCsubj:15005009}
+		5000 m
+			{IPTCsubj:15005010}
+		10,000 m
+			{IPTCsubj:15005011}
+		20 km
+			{IPTCsubj:15005012}
+		one hour
+			{IPTCsubj:15005013}
+		25000
+			{IPTCsubj:15005014}
+		30000
+			{IPTCsubj:15005015}
+		110 m hurdles
+			{IPTCsubj:15005016}
+		400 m hurdles
+			{IPTCsubj:15005017}
+		3000 m steeplechase
+			{IPTCsubj:15005018}
+		high jump
+			{IPTCsubj:15005019}
+		pole vault
+			{IPTCsubj:15005020}
+		long jump
+			{IPTCsubj:15005021}
+		triple jump
+			{IPTCsubj:15005022}
+		shot put
+			{IPTCsubj:15005023}
+		discus throw
+			{IPTCsubj:15005024}
+		hammer throw
+			{IPTCsubj:15005025}
+		javelin throw
+			{IPTCsubj:15005026}
+		decathlon
+			{IPTCsubj:15005027}
+		4x100 m
+			{IPTCsubj:15005028}
+		4x200 m
+			{IPTCsubj:15005029}
+		4x400 m
+			{IPTCsubj:15005030}
+		4x800 m
+			{IPTCsubj:15005031}
+		4x1500 m
+			{IPTCsubj:15005032}
+		walk 1 h
+			{IPTCsubj:15005033}
+		walk 2 h
+			{IPTCsubj:15005034}
+		10 km walk
+			{IPTCsubj:15005035}
+		15 km walk
+			{IPTCsubj:15005036}
+		20 km walk
+			{IPTCsubj:15005037}
+		30 km walk
+			{IPTCsubj:15005038}
+		50 km walk
+			{IPTCsubj:15005039}
+		100 m hurdles
+			{IPTCsubj:15005040}
+		5 km walk
+			{IPTCsubj:15005041}
+		heptathlon
+			{IPTCsubj:15005042}
+		1500 m walk
+			{IPTCsubj:15005043}
+		2000 m walk
+			{IPTCsubj:15005044}
+		3000 m walk
+			{IPTCsubj:15005045}
+		50 m
+			{IPTCsubj:15005046}
+		50 m hurdles
+			{IPTCsubj:15005047}
+		50 yards
+			{IPTCsubj:15005048}
+		50 yard hurdles
+			{IPTCsubj:15005049}
+		60 m
+			{IPTCsubj:15005050}
+		60 m hurdles
+			{IPTCsubj:15005051}
+		60 yards
+			{IPTCsubj:15005052}
+		60 yard hurdles
+			{IPTCsubj:15005053}
+		100 yards
+			{IPTCsubj:15005054}
+		100 yard hurdles
+			{IPTCsubj:15005055}
+		300 m
+			{IPTCsubj:15005056}
+		300 yards
+			{IPTCsubj:15005057}
+		440 yards
+			{IPTCsubj:15005058}
+		500 m
+			{IPTCsubj:15005059}
+		500 yards
+			{IPTCsubj:15005060}
+		600 m
+			{IPTCsubj:15005061}
+		600 yards
+			{IPTCsubj:15005062}
+		880 yards
+			{IPTCsubj:15005063}
+		1000 yards
+			{IPTCsubj:15005064}
+		2 miles
+			{IPTCsubj:15005065}
+		3 miles
+			{IPTCsubj:15005066}
+		6 miles
+			{IPTCsubj:15005067}
+		4x1 mile
+			{IPTCsubj:15005068}
+		pentathlon
+			{IPTCsubj:15005069}
+	badminton
+		{IPTCsubj:15006000}
+	baseball
+		{IPTCsubj:15007000}
+		Major League Baseball (North American Professional) - American League
+			{IPTCsubj:15007001}
+		Major League Baseball (North American Professional) - National League
+			{IPTCsubj:15007002}
+		Major League Baseball (North American Professional) - Special (e.g. All-Star, World Series)
+			{IPTCsubj:15007003}
+		rubberball baseball
+			{IPTCsubj:15007004}
+		Major League Baseball Playoffs
+			{IPTCsubj:15007005}
+		World Series
+			{IPTCsubj:15007006}
+	basketball
+		{IPTCsubj:15008000}
+		National Basketball Association (North American Professional)
+			{IPTCsubj:15008001}
+		professional - Women general
+			{IPTCsubj:15008002}
+		Swiss netball
+			{IPTCsubj:15008003}
+		German netball
+			{IPTCsubj:15008004}
+		Dutch netball
+			{IPTCsubj:15008005}
+	biathlon
+		{IPTCsubj:15009000}
+		7.5 km
+			{IPTCsubj:15009001}
+		10 km
+			{IPTCsubj:15009002}
+		15 km
+			{IPTCsubj:15009003}
+		20 km
+			{IPTCsubj:15009004}
+		4x7.5 km relay
+			{IPTCsubj:15009005}
+		12.5 km pursuit
+			{IPTCsubj:15009006}
+	billiards, snooker and pool
+		{IPTCsubj:15010000}
+		8 ball
+			{IPTCsubj:15010001}
+		9 ball
+			{IPTCsubj:15010002}
+		14-Jan
+			{IPTCsubj:15010003}
+		continuous-DEPRECATED
+			{IPTCsubj:15010004}
+		other-DEPRECATED
+			{IPTCsubj:15010005}
+		snooker
+			{IPTCsubj:15010006}
+	bobsleigh
+		{IPTCsubj:15011000}
+		two-man sled
+			{IPTCsubj:15011001}
+		four-man sled
+			{IPTCsubj:15011002}
+	bowling
+		{IPTCsubj:15012000}
+	bowls and petanque
+		{IPTCsubj:15013000}
+	boxing
+		{IPTCsubj:15014000}
+		super-heavyweight
+			{IPTCsubj:15014001}
+		heavyweight
+			{IPTCsubj:15014002}
+		cruiserweight
+			{IPTCsubj:15014003}
+		light-heavyweight
+			{IPTCsubj:15014004}
+		super-middleweight
+			{IPTCsubj:15014005}
+		middleweight
+			{IPTCsubj:15014006}
+		light-middleweight
+			{IPTCsubj:15014007}
+		welterweight
+			{IPTCsubj:15014008}
+		light-welterweight
+			{IPTCsubj:15014009}
+		lightweight
+			{IPTCsubj:15014010}
+		super-featherweight
+			{IPTCsubj:15014011}
+		featherweight
+			{IPTCsubj:15014012}
+		super-bantamweight
+			{IPTCsubj:15014013}
+		bantamweight
+			{IPTCsubj:15014014}
+		super-flyweight
+			{IPTCsubj:15014015}
+		flyweight
+			{IPTCsubj:15014016}
+		light flyweight
+			{IPTCsubj:15014017}
+		straw
+			{IPTCsubj:15014018}
+		IBF
+			{IPTCsubj:15014019}
+		WBA
+			{IPTCsubj:15014020}
+		WBC
+			{IPTCsubj:15014021}
+		WBO
+			{IPTCsubj:15014022}
+		French boxing
+			{IPTCsubj:15014023}
+		Thai boxing
+			{IPTCsubj:15014024}
+	canoeing and kayaking
+		{IPTCsubj:15015000}
+		Slalom
+			{IPTCsubj:15015001}
+		200 m
+			{IPTCsubj:15015002}
+		500 m
+			{IPTCsubj:15015003}
+		1000 m
+			{IPTCsubj:15015004}
+		K1
+			{IPTCsubj:15015005}
+		K2
+			{IPTCsubj:15015006}
+		K4
+			{IPTCsubj:15015007}
+		C1
+			{IPTCsubj:15015008}
+		C2
+			{IPTCsubj:15015009}
+		C4
+			{IPTCsubj:15015010}
+		canoe sailing
+			{IPTCsubj:15015011}
+		pontoniering
+			{IPTCsubj:15015012}
+	climbing
+		{IPTCsubj:15016000}
+		mountaineering
+			{IPTCsubj:15016001}
+		sport climbing
+			{IPTCsubj:15016002}
+	cricket
+		{IPTCsubj:15017000}
+	curling
+		{IPTCsubj:15018000}
+		icestock sport
+			{IPTCsubj:15018001}
+	cycling
+		{IPTCsubj:15019000}
+		track
+			{IPTCsubj:15019001}
+		pursuit
+			{IPTCsubj:15019002}
+		Olympic sprint
+			{IPTCsubj:15019003}
+		sprint
+			{IPTCsubj:15019004}
+		Keirin
+			{IPTCsubj:15019005}
+		points race
+			{IPTCsubj:15019006}
+		Madison race
+			{IPTCsubj:15019007}
+		500 m time trial
+			{IPTCsubj:15019008}
+		1 km time trial
+			{IPTCsubj:15019009}
+		one hour
+			{IPTCsubj:15019010}
+		road race
+			{IPTCsubj:15019011}
+		road time trial
+			{IPTCsubj:15019012}
+		staging race
+			{IPTCsubj:15019013}
+		cyclo-cross
+			{IPTCsubj:15019014}
+		Vtt
+			{IPTCsubj:15019015}
+		Vtt-cross
+			{IPTCsubj:15019016}
+		Vtt-downhill
+			{IPTCsubj:15019017}
+		bi-crossing
+			{IPTCsubj:15019018}
+		trial
+			{IPTCsubj:15019019}
+		artistic cycling
+			{IPTCsubj:15019020}
+		cycle ball
+			{IPTCsubj:15019021}
+	dancing
+		{IPTCsubj:15020000}
+	diving
+		{IPTCsubj:15021000}
+		10 m platform
+			{IPTCsubj:15021001}
+		10 m platform synchronised
+			{IPTCsubj:15021002}
+		3 m springboard
+			{IPTCsubj:15021003}
+		3 m springboard synchronised
+			{IPTCsubj:15021004}
+		subaquatics
+			{IPTCsubj:15021005}
+		scuba diving
+			{IPTCsubj:15021006}
+	equestrian
+		{IPTCsubj:15022000}
+		three-day event
+			{IPTCsubj:15022001}
+		dressage
+			{IPTCsubj:15022002}
+		jumping
+			{IPTCsubj:15022003}
+		cross country
+			{IPTCsubj:15022004}
+	fencing
+		{IPTCsubj:15023000}
+		epee
+			{IPTCsubj:15023001}
+		foil
+			{IPTCsubj:15023002}
+		sabre
+			{IPTCsubj:15023003}
+	field Hockey
+		{IPTCsubj:15024000}
+		roll hockey
+			{IPTCsubj:15024001}
+	figure Skating
+		{IPTCsubj:15025000}
+		singles
+			{IPTCsubj:15025001}
+		pairs
+			{IPTCsubj:15025002}
+		ice dance
+			{IPTCsubj:15025003}
+	freestyle Skiing
+		{IPTCsubj:15026000}
+		moguls
+			{IPTCsubj:15026001}
+		aerials
+			{IPTCsubj:15026002}
+		artistic skiing
+			{IPTCsubj:15026003}
+	golf
+		{IPTCsubj:15027000}
+	gymnastics
+		{IPTCsubj:15028000}
+		floor exercise
+			{IPTCsubj:15028001}
+		vault
+			{IPTCsubj:15028002}
+		pommel horse
+			{IPTCsubj:15028003}
+		uneven bars
+			{IPTCsubj:15028004}
+		parallel bars
+			{IPTCsubj:15028005}
+		horizontal bar
+			{IPTCsubj:15028006}
+		rings
+			{IPTCsubj:15028007}
+		beam
+			{IPTCsubj:15028008}
+		rhythmic
+			{IPTCsubj:15028009}
+		clubs
+			{IPTCsubj:15028010}
+		hoop
+			{IPTCsubj:15028011}
+		ribbon
+			{IPTCsubj:15028012}
+		rope
+			{IPTCsubj:15028013}
+		ball
+			{IPTCsubj:15028014}
+		trampoline
+			{IPTCsubj:15028015}
+	handball (team)
+		{IPTCsubj:15029000}
+	horse racing, harness racing
+		{IPTCsubj:15030000}
+		flat racing
+			{IPTCsubj:15030001}
+		steeple chase
+			{IPTCsubj:15030002}
+		trotting
+			{IPTCsubj:15030003}
+		cross country
+			{IPTCsubj:15030004}
+	ice hockey
+		{IPTCsubj:15031000}
+		National Hockey League (North American)
+			{IPTCsubj:15031001}
+		sledge hockey
+			{IPTCsubj:15031002}
+	Jai Alai (Pelota)
+		{IPTCsubj:15032000}
+		fronton
+			{IPTCsubj:15032001}
+		jai-alai
+			{IPTCsubj:15032002}
+		left wall
+			{IPTCsubj:15032003}
+		trinquet
+			{IPTCsubj:15032004}
+		rebot
+			{IPTCsubj:15032005}
+		chistera ancha
+			{IPTCsubj:15032006}
+		chistera corta
+			{IPTCsubj:15032007}
+		bare hand
+			{IPTCsubj:15032008}
+		pala-ancha
+			{IPTCsubj:15032009}
+		pala-corta
+			{IPTCsubj:15032010}
+		pasaka
+			{IPTCsubj:15032011}
+		xare
+			{IPTCsubj:15032012}
+	judo
+		{IPTCsubj:15033000}
+		heavyweight
+			{IPTCsubj:15033001}
+		half-heavyweight
+			{IPTCsubj:15033002}
+		middleweight
+			{IPTCsubj:15033003}
+		half-middleweight
+			{IPTCsubj:15033004}
+		half-lightweight
+			{IPTCsubj:15033005}
+		lightweight
+			{IPTCsubj:15033006}
+		extra lightweight
+			{IPTCsubj:15033007}
+	karate
+		{IPTCsubj:15034000}
+		sparring
+			{IPTCsubj:15034001}
+		formal exercise-DEPRECATED
+			{IPTCsubj:15034002}
+	lacrosse
+		{IPTCsubj:15035000}
+	luge
+		{IPTCsubj:15036000}
+		singles
+			{IPTCsubj:15036001}
+		doubles
+			{IPTCsubj:15036002}
+	marathon
+		{IPTCsubj:15037000}
+	modern pentathlon
+		{IPTCsubj:15038000}
+		running
+			{IPTCsubj:15038001}
+		shooting
+			{IPTCsubj:15038002}
+		swimming
+			{IPTCsubj:15038003}
+		fencing
+			{IPTCsubj:15038004}
+		showjumping
+			{IPTCsubj:15038005}
+	motor racing
+		{IPTCsubj:15039000}
+		Formula One
+			{IPTCsubj:15039001}
+		F3000
+			{IPTCsubj:15039002}
+		endurance
+			{IPTCsubj:15039003}
+		Indy
+			{IPTCsubj:15039004}
+		CART
+			{IPTCsubj:15039005}
+		NHRA
+			{IPTCsubj:15039006}
+		NASCAR
+			{IPTCsubj:15039007}
+		TRUCKI
+			{IPTCsubj:15039008}
+	motor rallying
+		{IPTCsubj:15040000}
+		rallying
+			{IPTCsubj:15040001}
+		pursuit
+			{IPTCsubj:15040002}
+		rallycross
+			{IPTCsubj:15040003}
+	motorcycling
+		{IPTCsubj:15041000}
+		speed-Grand-Prix
+			{IPTCsubj:15041001}
+		enduro
+			{IPTCsubj:15041002}
+		grass-track
+			{IPTCsubj:15041003}
+		moto-ball
+			{IPTCsubj:15041004}
+		moto-cross
+			{IPTCsubj:15041005}
+		rallying
+			{IPTCsubj:15041006}
+		trial
+			{IPTCsubj:15041007}
+		endurance
+			{IPTCsubj:15041008}
+		superbike
+			{IPTCsubj:15041009}
+		125 cm3
+			{IPTCsubj:15041010}
+		250 cm3
+			{IPTCsubj:15041011}
+		500 cm3
+			{IPTCsubj:15041012}
+		side-cars
+			{IPTCsubj:15041013}
+		motoGP
+			{IPTCsubj:15041014}
+	netball
+		{IPTCsubj:15042000}
+	nordic skiing
+		{IPTCsubj:15043000}
+		cross-country
+			{IPTCsubj:15043001}
+		5 km classical time
+			{IPTCsubj:15043002}
+		10 km classical style
+			{IPTCsubj:15043003}
+		10 km pursuit free style
+			{IPTCsubj:15043004}
+		15 km classical style
+			{IPTCsubj:15043005}
+		15 km pursuit free style
+			{IPTCsubj:15043006}
+		10 km + 15 km combined
+			{IPTCsubj:15043007}
+		30 km classical style
+			{IPTCsubj:15043008}
+		30km free style
+			{IPTCsubj:15043009}
+		50 km free style
+			{IPTCsubj:15043010}
+		4x5 km relay
+			{IPTCsubj:15043011}
+		4x10 km relay
+			{IPTCsubj:15043012}
+		nordic combined
+			{IPTCsubj:15043013}
+		raid
+			{IPTCsubj:15043014}
+		5 km pursuit free style
+			{IPTCsubj:15043015}
+		1.5 km sprint free
+			{IPTCsubj:15043016}
+		50 km classic style
+			{IPTCsubj:15043017}
+	orienteering
+		{IPTCsubj:15044000}
+		ski orienteering
+			{IPTCsubj:15044001}
+	polo
+		{IPTCsubj:15045000}
+	power boating
+		{IPTCsubj:15046000}
+		F1
+			{IPTCsubj:15046001}
+		F2
+			{IPTCsubj:15046002}
+	rowing
+		{IPTCsubj:15047000}
+		single sculls
+			{IPTCsubj:15047001}
+		double sculls
+			{IPTCsubj:15047002}
+		quadruple sculls
+			{IPTCsubj:15047003}
+		coxless pair
+			{IPTCsubj:15047004}
+		coxless four
+			{IPTCsubj:15047005}
+		eight
+			{IPTCsubj:15047006}
+		lightweight
+			{IPTCsubj:15047007}
+	rugby league
+		{IPTCsubj:15048000}
+	rugby union
+		{IPTCsubj:15049000}
+		rugby 7
+			{IPTCsubj:15049001}
+	sailing
+		{IPTCsubj:15050000}
+		Tornado
+			{IPTCsubj:15050001}
+		soling
+			{IPTCsubj:15050002}
+		49er
+			{IPTCsubj:15050003}
+		Europe
+			{IPTCsubj:15050004}
+		Laser
+			{IPTCsubj:15050005}
+		470
+			{IPTCsubj:15050006}
+		Finn
+			{IPTCsubj:15050007}
+		Star
+			{IPTCsubj:15050008}
+		flying dutchmann
+			{IPTCsubj:15050009}
+		505
+			{IPTCsubj:15050010}
+		staging race
+			{IPTCsubj:15050011}
+		around the world
+			{IPTCsubj:15050012}
+		monohull
+			{IPTCsubj:15050013}
+		multihulls
+			{IPTCsubj:15050014}
+		yngling
+			{IPTCsubj:15050015}
+		mistral
+			{IPTCsubj:15050016}
+	shooting
+		{IPTCsubj:15051000}
+		10 m air rifle
+			{IPTCsubj:15051001}
+		10 m air pistol
+			{IPTCsubj:15051002}
+		10 m running target
+			{IPTCsubj:15051003}
+		25 m rapid fire pistol
+			{IPTCsubj:15051004}
+		25 m sport pistol
+			{IPTCsubj:15051005}
+		50 m free pistol
+			{IPTCsubj:15051006}
+		50 m free rifle prone
+			{IPTCsubj:15051007}
+		50 m free rifle 3x40
+			{IPTCsubj:15051008}
+		50 m sport rifle 3x20
+			{IPTCsubj:15051009}
+		trap
+			{IPTCsubj:15051010}
+		double trap
+			{IPTCsubj:15051011}
+		skeet
+			{IPTCsubj:15051012}
+	ski jumping
+		{IPTCsubj:15052000}
+		K90 jump
+			{IPTCsubj:15052001}
+		K120 jump
+			{IPTCsubj:15052002}
+		K180 (flying jump)
+			{IPTCsubj:15052003}
+	snow boarding
+		{IPTCsubj:15053000}
+		giant slalom
+			{IPTCsubj:15053001}
+		half-pipe
+			{IPTCsubj:15053002}
+	soccer
+		{IPTCsubj:15054000}
+	softball
+		{IPTCsubj:15055000}
+	speed skating
+		{IPTCsubj:15056000}
+		500 m
+			{IPTCsubj:15056001}
+		1000 m
+			{IPTCsubj:15056002}
+		1500 m
+			{IPTCsubj:15056003}
+		3000 m
+			{IPTCsubj:15056004}
+		5000 m
+			{IPTCsubj:15056005}
+		10000 m
+			{IPTCsubj:15056006}
+		Short-track
+			{IPTCsubj:15056007}
+		st 500 m
+			{IPTCsubj:15056008}
+		st 1000m
+			{IPTCsubj:15056009}
+		st 1500m
+			{IPTCsubj:15056010}
+		st 3000m
+			{IPTCsubj:15056011}
+		st 3000m relay
+			{IPTCsubj:15056012}
+		st 5000m
+			{IPTCsubj:15056013}
+		st 5000m relay
+			{IPTCsubj:15056014}
+	speedway
+		{IPTCsubj:15057000}
+	sports organisations
+		{IPTCsubj:15058000}
+		IOC
+			{IPTCsubj:15058001}
+		international federation
+			{IPTCsubj:15058002}
+		continental federation
+			{IPTCsubj:15058003}
+		national federation
+			{IPTCsubj:15058004}
+		GAISF
+			{IPTCsubj:15058005}
+	squash
+		{IPTCsubj:15059000}
+	sumo wrestling
+		{IPTCsubj:15060000}
+	surfing
+		{IPTCsubj:15061000}
+	swimming
+		{IPTCsubj:15062000}
+		50 m freestyle
+			{IPTCsubj:15062001}
+		100 m freestyle
+			{IPTCsubj:15062002}
+		200 m freestyle
+			{IPTCsubj:15062003}
+		400 m freestyle
+			{IPTCsubj:15062004}
+		800 m freestyle
+			{IPTCsubj:15062005}
+		1500 m freestyle
+			{IPTCsubj:15062006}
+		relay 4x50 m freestyle
+			{IPTCsubj:15062007}
+		relay 4x100 m freestyle
+			{IPTCsubj:15062008}
+		relay 4x200 m freestyle
+			{IPTCsubj:15062009}
+		50 m backstroke
+			{IPTCsubj:15062010}
+		100 m backstroke
+			{IPTCsubj:15062011}
+		200 m backstroke
+			{IPTCsubj:15062012}
+		50 m breaststroke
+			{IPTCsubj:15062013}
+		100 m breaststroke
+			{IPTCsubj:15062014}
+		200 m breaststroke
+			{IPTCsubj:15062015}
+		50 m butterfly
+			{IPTCsubj:15062016}
+		100 m butterfly
+			{IPTCsubj:15062017}
+		200 m butterfly
+			{IPTCsubj:15062018}
+		100 m medley
+			{IPTCsubj:15062019}
+		200 m medley
+			{IPTCsubj:15062020}
+		400 m medley
+			{IPTCsubj:15062021}
+		relay 4x50 m medlay
+			{IPTCsubj:15062022}
+		relay4x100 m medley
+			{IPTCsubj:15062023}
+		short course
+			{IPTCsubj:15062024}
+		synchronised technical routine
+			{IPTCsubj:15062025}
+		synchronised free routine
+			{IPTCsubj:15062026}
+	table tennis
+		{IPTCsubj:15063000}
+	Taekwon-Do
+		{IPTCsubj:15064000}
+		under 49 kg
+			{IPTCsubj:15064001}
+		under 58 kg
+			{IPTCsubj:15064002}
+		49-57 kg
+			{IPTCsubj:15064003}
+		58-68 kg
+			{IPTCsubj:15064004}
+		57-67 kg
+			{IPTCsubj:15064005}
+		68-80 kg
+			{IPTCsubj:15064006}
+		over 67 kg
+			{IPTCsubj:15064007}
+		over 80 kg
+			{IPTCsubj:15064008}
+	tennis
+		{IPTCsubj:15065000}
+		soft tennis
+			{IPTCsubj:15065001}
+	triathlon
+		{IPTCsubj:15066000}
+		triathlon swimming
+			{IPTCsubj:15066001}
+		triathlon cycling
+			{IPTCsubj:15066002}
+		triathlon run
+			{IPTCsubj:15066003}
+	volleyball
+		{IPTCsubj:15067000}
+		beach volleyball
+			{IPTCsubj:15067001}
+	water polo
+		{IPTCsubj:15068000}
+	water skiing
+		{IPTCsubj:15069000}
+		slalom
+			{IPTCsubj:15069001}
+		trick
+			{IPTCsubj:15069002}
+		jump
+			{IPTCsubj:15069003}
+		combined
+			{IPTCsubj:15069004}
+	weightlifting
+		{IPTCsubj:15070000}
+		snatch
+			{IPTCsubj:15070001}
+		clean and jerk
+			{IPTCsubj:15070002}
+		48 kg
+			{IPTCsubj:15070003}
+		53 kg
+			{IPTCsubj:15070004}
+		63 kg
+			{IPTCsubj:15070005}
+		75 kg
+			{IPTCsubj:15070006}
+		over 75 kg
+			{IPTCsubj:15070007}
+		56 kg
+			{IPTCsubj:15070008}
+		62 kg
+			{IPTCsubj:15070009}
+		69 kg
+			{IPTCsubj:15070010}
+		77 kg
+			{IPTCsubj:15070011}
+		85 kg
+			{IPTCsubj:15070012}
+		94 kg
+			{IPTCsubj:15070013}
+		105 kg
+			{IPTCsubj:15070014}
+		over 105 kg
+			{IPTCsubj:15070015}
+		powerlifting
+			{IPTCsubj:15070016}
+	windsurfing
+		{IPTCsubj:15071000}
+		ocean
+			{IPTCsubj:15071001}
+		lake
+			{IPTCsubj:15071002}
+		river
+			{IPTCsubj:15071003}
+		land
+			{IPTCsubj:15071004}
+	wrestling
+		{IPTCsubj:15072000}
+		freestyle
+			{IPTCsubj:15072001}
+		greco-roman
+			{IPTCsubj:15072002}
+		over 130 kg
+			{IPTCsubj:15072003}
+		130 kg
+			{IPTCsubj:15072004}
+		97 kg
+			{IPTCsubj:15072005}
+		85 kg
+			{IPTCsubj:15072006}
+		76 kg
+			{IPTCsubj:15072007}
+		69 kg
+			{IPTCsubj:15072008}
+		63 kg
+			{IPTCsubj:15072009}
+		58 kg
+			{IPTCsubj:15072010}
+		54 kg
+			{IPTCsubj:15072011}
+		Swiss wrestling
+			{IPTCsubj:15072012}
+	sports event
+		{IPTCsubj:15073000}
+		Summer Olympics
+			{IPTCsubj:15073001}
+		Winter Olympics
+			{IPTCsubj:15073002}
+		Summer universiade
+			{IPTCsubj:15073003}
+		Winter Universiade
+			{IPTCsubj:15073004}
+		Commonwealth Games
+			{IPTCsubj:15073005}
+		Winter Goodwill Games
+			{IPTCsubj:15073006}
+		Summer Asian Games
+			{IPTCsubj:15073007}
+		Winter Asian Games
+			{IPTCsubj:15073008}
+		Panamerican Games
+			{IPTCsubj:15073009}
+		African Games
+			{IPTCsubj:15073010}
+		Mediterranean Games
+			{IPTCsubj:15073011}
+		SouthEast Asiatic Games
+			{IPTCsubj:15073012}
+		PanPacific Games
+			{IPTCsubj:15073013}
+		SouthPacific Games
+			{IPTCsubj:15073014}
+		PanArabic Games
+			{IPTCsubj:15073015}
+		Summer Goodwill Games
+			{IPTCsubj:15073016}
+		World games
+			{IPTCsubj:15073017}
+		World Cup
+			{IPTCsubj:15073018}
+		intercontinental cup
+			{IPTCsubj:15073019}
+		continental cup
+			{IPTCsubj:15073020}
+		international cup
+			{IPTCsubj:15073021}
+		National Cup
+			{IPTCsubj:15073022}
+		interregional cup
+			{IPTCsubj:15073023}
+		regional cup
+			{IPTCsubj:15073024}
+		league cup
+			{IPTCsubj:15073025}
+		world championship
+			{IPTCsubj:15073026}
+		intercontinental championship
+			{IPTCsubj:15073027}
+		continental championship 1st level
+			{IPTCsubj:15073028}
+		continental championship 2nd level
+			{IPTCsubj:15073029}
+		continental championship 3rd level
+			{IPTCsubj:15073030}
+		national championship 1st level
+			{IPTCsubj:15073031}
+		national championship 2nd level
+			{IPTCsubj:15073032}
+		national championship3rdlevel
+			{IPTCsubj:15073033}
+		national championship 4th level
+			{IPTCsubj:15073034}
+		regional championship
+			{IPTCsubj:15073035}
+		Grand Prix
+			{IPTCsubj:15073036}
+		intercontinental tournament
+			{IPTCsubj:15073037}
+		continental tournament
+			{IPTCsubj:15073038}
+		international tournament
+			{IPTCsubj:15073039}
+		national tournament
+			{IPTCsubj:15073040}
+		inter-nations competition
+			{IPTCsubj:15073041}
+		inter-clubs competition
+			{IPTCsubj:15073042}
+		friendly competition
+			{IPTCsubj:15073043}
+		all-stars competition
+			{IPTCsubj:15073044}
+		exhibition
+			{IPTCsubj:15073045}
+		Super Bowl
+			{IPTCsubj:15073046}
+		paralympic games
+			{IPTCsubj:15073047}
+	rodeo
+		{IPTCsubj:15074000}
+		barrel racing
+			{IPTCsubj:15074001}
+		calf roping
+			{IPTCsubj:15074002}
+		bull riding
+			{IPTCsubj:15074003}
+		bulldogging
+			{IPTCsubj:15074004}
+		saddle bronc
+			{IPTCsubj:15074005}
+		bareback
+			{IPTCsubj:15074006}
+		goat roping
+			{IPTCsubj:15074007}
+	mini golf sport
+		{IPTCsubj:15075000}
+	bandy
+		{IPTCsubj:15076000}
+	flying disc
+		{IPTCsubj:15077000}
+		ultimate
+			{IPTCsubj:15077001}
+		guts
+			{IPTCsubj:15077002}
+		overall
+			{IPTCsubj:15077003}
+		distance
+			{IPTCsubj:15077004}
+		discathon
+			{IPTCsubj:15077005}
+		DDC
+			{IPTCsubj:15077006}
+		SCF
+			{IPTCsubj:15077007}
+		freestyle
+			{IPTCsubj:15077008}
+		accuracy
+			{IPTCsubj:15077009}
+		disc golf
+			{IPTCsubj:15077010}
+	floorball
+		{IPTCsubj:15078000}
+	casting
+		{IPTCsubj:15079000}
+	tug-of-war
+		{IPTCsubj:15080000}
+	croquette
+		{IPTCsubj:15081000}
+	dog racing
+		{IPTCsubj:15082000}
+		sled
+			{IPTCsubj:15082001}
+		oval track
+			{IPTCsubj:15082002}
+	skeleton
+		{IPTCsubj:15083000}
+	Australian rules football
+		{IPTCsubj:15084000}
+	Canadian football
+		{IPTCsubj:15085000}
+	duathlon
+		{IPTCsubj:15086000}
+	hornuss
+		{IPTCsubj:15087000}
+	fist ball
+		{IPTCsubj:15088000}
+	inline skating
+		{IPTCsubj:15089000}
+	grass ski
+		{IPTCsubj:15090000}
+	snowbiking
+		{IPTCsubj:15091000}
+	twirling
+		{IPTCsubj:15092000}
+	kendo
+		{IPTCsubj:15093000}
+	jukendo
+		{IPTCsubj:15094000}
+	naginata
+		{IPTCsubj:15095000}
+	kyudo
+		{IPTCsubj:15096000}
+	kabaddi
+		{IPTCsubj:15097000}
+	sepak takraw
+		{IPTCsubj:15098000}
+	wushu
+		{IPTCsubj:15099000}
+	darts
+		{IPTCsubj:15100000}
+	bodybuilding
+		{IPTCsubj:15101000}
+	sports disciplinary action
+		{IPTCsubj:15102000}
+	sports awards
+		{IPTCsubj:15103000}
+unrest, conflicts and war
+	{IPTCsubj:16000000}
+	act of terror
+		{IPTCsubj:16001000}
+	armed conflict
+		{IPTCsubj:16002000}
+	civil unrest
+		{IPTCsubj:16003000}
+		revolutions
+			{IPTCsubj:16003001}
+		rebellions
+			{IPTCsubj:16003002}
+		political dissent
+			{IPTCsubj:16003003}
+		religious conflict
+			{IPTCsubj:16003004}
+		social conflict
+			{IPTCsubj:16003005}
+	coup d'etat
+		{IPTCsubj:16004000}
+	guerrilla activity
+		{IPTCsubj:16005000}
+		bioterrorism
+			{IPTCsubj:16005001}
+		bombings
+			{IPTCsubj:16005002}
+	massacre
+		{IPTCsubj:16006000}
+		genocide
+			{IPTCsubj:16006001}
+	riots
+		{IPTCsubj:16007000}
+	demonstration
+		{IPTCsubj:16008000}
+	war
+		{IPTCsubj:16009000}
+		civil war
+			{IPTCsubj:16009001}
+		international military intervention
+			{IPTCsubj:16009002}
+		prisoners and detainees
+			{IPTCsubj:16009003}
+	conflict (general)
+		{IPTCsubj:16010000}
+		peacekeeping force
+			{IPTCsubj:16010001}
+	crisis
+		{IPTCsubj:16011000}
+	weaponry
+		{IPTCsubj:16012000}
+weather
+	{IPTCsubj:17000000}
+	forecast
+		{IPTCsubj:17001000}
+	global change
+		{IPTCsubj:17002000}
+	report
+		{IPTCsubj:17003000}
+		weather news
+			{IPTCsubj:17003001}
+	statistic
+		{IPTCsubj:17004000}
+	warning
+		{IPTCsubj:17005000}
