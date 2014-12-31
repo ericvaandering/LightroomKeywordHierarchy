@@ -1,4 +1,4 @@
-arts, culture and entertainment
+arts & culture & entertainment
 	{IPTCsubj:01000000}
 	archaeology
 		{IPTCsubj:01001000}
@@ -98,7 +98,7 @@ arts, culture and entertainment
 		{IPTCsubj:01027000}
 	history
 		{IPTCsubj:01028000}
-crime, law and justice
+crime & law & justice
 	{IPTCsubj:02000000}
 	crime
 		{IPTCsubj:02001000}
@@ -256,7 +256,7 @@ disaster and accident
 		{IPTCsubj:03016000}
 	rescue
 		{IPTCsubj:03017000}
-economy, business and finance
+economy & business & finance
 	{IPTCsubj:04000000}
 	agriculture
 		{IPTCsubj:04001000}
@@ -616,7 +616,7 @@ economy, business and finance
 			{IPTCsubj:04016003}
 		antitrust issue
 			{IPTCsubj:04016004}
-		merger, acquisition and takeover
+		merger & acquisition & takeover
 			{IPTCsubj:04016005}
 		analysts' comment
 			{IPTCsubj:04016006}
@@ -668,7 +668,7 @@ economy, business and finance
 			{IPTCsubj:04016029}
 		new product
 			{IPTCsubj:04016030}
-		patent, copyright and trademark
+		patent & copyright & trademark
 			{IPTCsubj:04016031}
 		plant closing
 			{IPTCsubj:04016032}
@@ -1606,7 +1606,7 @@ sport
 			{IPTCsubj:15004001}
 		crossbow shooting
 			{IPTCsubj:15004002}
-	athletics, track and field
+	athletics & track and field
 		{IPTCsubj:15005000}
 		100 m
 			{IPTCsubj:15005001}
@@ -1628,7 +1628,7 @@ sport
 			{IPTCsubj:15005009}
 		5000 m
 			{IPTCsubj:15005010}
-		10,000 m
+		10000 m
 			{IPTCsubj:15005011}
 		20 km
 			{IPTCsubj:15005012}
@@ -1754,7 +1754,7 @@ sport
 			{IPTCsubj:15007001}
 		Major League Baseball (North American Professional) - National League
 			{IPTCsubj:15007002}
-		Major League Baseball (North American Professional) - Special (e.g. All-Star, World Series)
+		Major League Baseball (North American Professional) - Special (e.g. All-Star & World Series)
 			{IPTCsubj:15007003}
 		rubberball baseball
 			{IPTCsubj:15007004}
@@ -1788,7 +1788,7 @@ sport
 			{IPTCsubj:15009005}
 		12.5 km pursuit
 			{IPTCsubj:15009006}
-	billiards, snooker and pool
+	billiards & snooker & pool
 		{IPTCsubj:15010000}
 		8 ball
 			{IPTCsubj:15010001}
@@ -2034,7 +2034,7 @@ sport
 			{IPTCsubj:15028015}
 	handball (team)
 		{IPTCsubj:15029000}
-	horse racing, harness racing
+	horse racing & harness racing
 		{IPTCsubj:15030000}
 		flat racing
 			{IPTCsubj:15030001}
@@ -2742,7 +2742,7 @@ sport
 		{IPTCsubj:15102000}
 	sports awards
 		{IPTCsubj:15103000}
-unrest, conflicts and war
+unrest & conflicts & war
 	{IPTCsubj:16000000}
 	act of terror
 		{IPTCsubj:16001000}
