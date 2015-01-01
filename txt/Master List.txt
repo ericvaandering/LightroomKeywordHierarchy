@@ -60,8 +60,6 @@ arts & culture & entertainment
 			{IPTCsubj:01026004}
 	monument and heritage site
 		{IPTCsubj:01018000}
-		institution-DEPRECATED
-			{IPTCsubj:01018001}
 	music
 		{IPTCsubj:01011000}
 		classical music
@@ -1246,14 +1244,6 @@ politics
 			{IPTCsubj:11013001}
 	treaty
 		{IPTCsubj:11027000}
-	treaty and international organization-DEPRECATED
-		{IPTCsubj:11014000}
-		alliances-DEPRECATED
-			{IPTCsubj:11014003}
-		international relations-DEPRECATED
-			{IPTCsubj:11014001}
-		peace negotiations-DEPRECATED
-			{IPTCsubj:11014002}
 religion and belief
 	{IPTCsubj:12000000}
 	belief (faith)
@@ -1290,10 +1280,6 @@ religion and belief
 			{IPTCsubj:12009010}
 		salvation army
 			{IPTCsubj:12009013}
-	church (organization)-DEPRECATED
-		{IPTCsubj:12005000}
-		religious facilities-DEPRECATED
-			{IPTCsubj:12005001}
 	church and state relations
 		{IPTCsubj:12007000}
 	concordat
@@ -1322,18 +1308,6 @@ religion and belief
 		{IPTCsubj:12021000}
 	philosophy
 		{IPTCsubj:12008000}
-	religion-DEPRECATED
-		{IPTCsubj:12004000}
-		buddhism-DEPRECATED
-			{IPTCsubj:12004004}
-		christianity-DEPRECATED
-			{IPTCsubj:12004001}
-		hinduism-DEPRECATED
-			{IPTCsubj:12004005}
-		islam-DEPRECATED
-			{IPTCsubj:12004002}
-		judaism-DEPRECATED
-			{IPTCsubj:12004003}
 	religious event
 		{IPTCsubj:12025000}
 		catholic convention
@@ -1596,8 +1570,6 @@ sport
 		{IPTCsubj:15003000}
 		(US) National Football League (NFL) (North American)
 			{IPTCsubj:15003001}
-		AFL-DEPRECATED
-			{IPTCsubj:15003003}
 		CFL
 			{IPTCsubj:15003002}
 	archery
@@ -1800,10 +1772,6 @@ sport
 			{IPTCsubj:15010002}
 		14-Jan
 			{IPTCsubj:15010003}
-		continuous-DEPRECATED
-			{IPTCsubj:15010004}
-		other-DEPRECATED
-			{IPTCsubj:15010005}
 		snooker
 			{IPTCsubj:15010006}
 	bobsleigh
@@ -2152,8 +2120,6 @@ sport
 		{IPTCsubj:15097000}
 	karate
 		{IPTCsubj:15034000}
-		formal exercise-DEPRECATED
-			{IPTCsubj:15034002}
 		sparring
 			{IPTCsubj:15034001}
 	kendo
