@@ -240,7 +240,7 @@ disaster and accident
 		{IPTCsubj:03008000}
 	pollution
 		{IPTCsubj:03009000}
-	relief and aid organisation
+	relief and aid organization
 		{IPTCsubj:03012000}
 	rescue
 		{IPTCsubj:03017000}
@@ -280,7 +280,7 @@ economy & business & finance
 		{IPTCsubj:04002000}
 		biotechnology
 			{IPTCsubj:04002001}
-		fertiliser
+		fertilizer
 			{IPTCsubj:04002002}
 		health and beauty product
 			{IPTCsubj:04002003}
@@ -378,7 +378,7 @@ economy & business & finance
 			{IPTCsubj:04016032}
 		plant opening
 			{IPTCsubj:04016033}
-		privatisation
+		privatization
 			{IPTCsubj:04016034}
 		productivity
 			{IPTCsubj:04016043}
@@ -394,7 +394,7 @@ economy & business & finance
 			{IPTCsubj:04016053}
 		research and development
 			{IPTCsubj:04016037}
-		restructuring and recapitalisation
+		restructuring and recapitalization
 			{IPTCsubj:04016039}
 		sales
 			{IPTCsubj:04016045}
@@ -520,7 +520,7 @@ economy & business & finance
 			{IPTCsubj:04006003}
 		employment agency
 			{IPTCsubj:04006004}
-		funeral parlour and crematorium
+		funeral parlor and crematorium
 			{IPTCsubj:04006015}
 		healthcare provider
 			{IPTCsubj:04006005}
@@ -742,7 +742,7 @@ education
 		{IPTCsubj:05009000}
 	further education
 		{IPTCsubj:05002000}
-	parent organisation
+	parent organization
 		{IPTCsubj:05003000}
 	preschool
 		{IPTCsubj:05004000}
@@ -866,7 +866,7 @@ health
 			{IPTCsubj:07011002}
 		medicare
 			{IPTCsubj:07011001}
-	health organisations
+	health organizations
 		{IPTCsubj:07004000}
 	health treatment
 		{IPTCsubj:07003000}
@@ -902,7 +902,7 @@ health
 		{IPTCsubj:07005000}
 	medical service
 		{IPTCsubj:07015000}
-	medical specialisation
+	medical specialization
 		{IPTCsubj:07014000}
 		genetics
 			{IPTCsubj:07014004}
@@ -1096,7 +1096,7 @@ politics
 		{IPTCsubj:11018000}
 	constitution
 		{IPTCsubj:11015000}
-	defence
+	defense
 		{IPTCsubj:11001000}
 		armed Forces
 			{IPTCsubj:11001004}
@@ -1174,9 +1174,9 @@ politics
 			{IPTCsubj:11006009}
 		national government
 			{IPTCsubj:11006004}
-		nationalisation
+		nationalization
 			{IPTCsubj:11006012}
-		privatisation
+		privatization
 			{IPTCsubj:11006011}
 		public employees
 			{IPTCsubj:11006010}
@@ -1204,7 +1204,7 @@ politics
 			{IPTCsubj:11016004}
 		planning inquiries
 			{IPTCsubj:11016007}
-	international organisation
+	international organization
 		{IPTCsubj:11028000}
 	lobbying
 		{IPTCsubj:11021000}
@@ -1238,7 +1238,7 @@ politics
 		{IPTCsubj:11011000}
 	regional authority
 		{IPTCsubj:11012000}
-	regulatory policy and organisation
+	regulatory policy and organization
 		{IPTCsubj:11022000}
 	state budget and tax
 		{IPTCsubj:11013000}
@@ -1246,7 +1246,7 @@ politics
 			{IPTCsubj:11013001}
 	treaty
 		{IPTCsubj:11027000}
-	treaty and international organisation-DEPRECATED
+	treaty and international organization-DEPRECATED
 		{IPTCsubj:11014000}
 		alliances-DEPRECATED
 			{IPTCsubj:11014003}
@@ -1290,7 +1290,7 @@ religion and belief
 			{IPTCsubj:12009010}
 		salvation army
 			{IPTCsubj:12009013}
-	church (organisation)-DEPRECATED
+	church (organization)-DEPRECATED
 		{IPTCsubj:12005000}
 		religious facilities-DEPRECATED
 			{IPTCsubj:12005001}
@@ -1472,7 +1472,7 @@ social issue
 	{IPTCsubj:14000000}
 	abortion
 		{IPTCsubj:14016000}
-	abusive behaviour
+	abusive behavior
 		{IPTCsubj:14022000}
 	addiction
 		{IPTCsubj:14001000}
@@ -1964,11 +1964,11 @@ sport
 		{IPTCsubj:15021000}
 		3 m springboard
 			{IPTCsubj:15021003}
-		3 m springboard synchronised
+		3 m springboard synchronized
 			{IPTCsubj:15021004}
 		10 m platform
 			{IPTCsubj:15021001}
-		10 m platform synchronised
+		10 m platform synchronized
 			{IPTCsubj:15021002}
 		scuba diving
 			{IPTCsubj:15021006}
@@ -2498,10 +2498,10 @@ sport
 			{IPTCsubj:15073031}
 		national championship 2nd level
 			{IPTCsubj:15073032}
+		national championship 3rd level
+			{IPTCsubj:15073033}
 		national championship 4th level
 			{IPTCsubj:15073034}
-		national championship3rdlevel
-			{IPTCsubj:15073033}
 		National Cup
 			{IPTCsubj:15073022}
 		national tournament
@@ -2614,9 +2614,9 @@ sport
 			{IPTCsubj:15062023}
 		short course
 			{IPTCsubj:15062024}
-		synchronised free routine
+		synchronized free routine
 			{IPTCsubj:15062026}
-		synchronised technical routine
+		synchronized technical routine
 			{IPTCsubj:15062025}
 	table tennis
 		{IPTCsubj:15063000}
