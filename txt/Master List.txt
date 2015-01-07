@@ -1044,6 +1044,7 @@ lifestyle and leisure
 		{IPTCsubj:10017000}
 	fishing
 		{IPTCsubj:10013000}
+	food and beverage
 	game
 		{IPTCsubj:10001000}
 		bridge
@@ -1086,6 +1087,123 @@ lifestyle and leisure
 			{IPTCsubj:10007001}
 	wedding
 		{IPTCsubj:10018000}
+living things
+	animals
+	plants
+people
+	artists
+	celebrities
+	family
+	fictional characters
+		cinema
+			Charlie Chaplin
+		comic book characters
+			Batman
+			Captain America
+			Pokey
+			Robin
+			Spiderman
+			Superman
+			The Joker
+			The Penguin
+		holiday
+			Santa Claus
+		mythical
+			dwarf
+			ghost
+			gnome
+			humpty dumpty
+			mermaid
+			troll
+	friends
+	historical
+		Abraham Lincoln
+		Alexander Hamilton
+		Benjamin Franklin
+		Bugsy Siegel
+		Buzz Aldrin
+		Caesar
+		Cleopatra
+		George W. Bush
+		George Washington
+		Jacqueline Kennedy
+		John F. Kennedy
+		Martin Luther King
+		Neil Armstrong
+		Princess Diana
+	models
+		Andrew Smith
+	musicians & singers
+		B. B. King
+		Bands
+			Cheap Trick
+		Bette Midler
+		Beyonce
+		Billy Idol
+		Bono
+		Britney Spears
+		Bruce Springsteen
+		Elton John
+		Elvis Presley
+		Eric Clapton
+		Frank Sinatra
+		James Brown
+		Jimi Hendrix
+		Joan Jett
+		Lenny Kravitz
+		Little Richard
+		Louis Armstrong
+		Luciano Pavarotti
+		Michael Jackson
+		Mick Jagger
+		Prince
+		Stevie Wonder
+		Tom Jones
+		Tony Bennett
+		Tupac Shakur
+		Vince Neil
+		Wayne Newton
+	religious figures
+		Buddhism
+			Buddha
+		Christianity
+			angel
+			Jesus Christ
+			Moses
+		Greek
+			Icarus
+			nymph
+		Roman
+			Bacchus
+			Venus
+	sports & athletes
+		Arnold Palmer
+		Babe Ruth
+		Dale Earnhardt
+		Evander Holyfield
+		Horace Grant
+		Michael Jordan
+		Muhammed Ali
+		Richard Petty
+		Tiger Woods
+places
+	Africa
+		Morocco
+	Asia
+		Tibet
+	Caribbean
+		Barbados
+		Cuba
+		Haiti
+		Jamaica
+	Europe
+		The Netherlands
+			Amsterdam
+	North America
+		Canada
+		Mexico
+		USA
+	South America
 politics
 	{IPTCsubj:11000000}
 	censorship
@@ -2708,6 +2826,7 @@ sport
 			{IPTCsubj:15072012}
 	wushu
 		{IPTCsubj:15099000}
+transportation
 unrest & conflicts & war
 	{IPTCsubj:16000000}
 	act of terror
